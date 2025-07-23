@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 - 💻 I’m a **PHP developer** learning to build real-world web apps.
-- 🧠 Currently exploring **Symfony**, **Laravel**, and **API Platform**.
+- 🧠 Currently exploring **Symfony** and **Laravel**.
 - ⚒️ Building my own **finance tracker**, **task manager**, and **language learning log**.
 - 🌱 I’m passionate about clean code, design patterns, and open-source contribution.
 - 🎯 Goal: Become a confident backend engineer & contribute to meaningful projects.
